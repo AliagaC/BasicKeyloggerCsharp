@@ -1,0 +1,15 @@
+C:\Users\Antonio\Dropbox\Antivirus\FileInfector\FileInfector\Keylogger\bin\Debug\Keylogger.exe.config
+C:\Users\Antonio\Dropbox\Antivirus\FileInfector\FileInfector\Keylogger\bin\Debug\Keylogger.exe
+C:\Users\Antonio\Dropbox\Antivirus\FileInfector\FileInfector\Keylogger\bin\Debug\Keylogger.pdb
+C:\Users\Antonio\Dropbox\Antivirus\FileInfector\FileInfector\Keylogger\obj\Debug\Keylogger.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Dropbox\Antivirus\FileInfector\FileInfector\Keylogger\obj\Debug\Keylogger.exe
+C:\Users\Antonio\Dropbox\Antivirus\FileInfector\FileInfector\Keylogger\obj\Debug\Keylogger.pdb
+D:\Dropbox\Antivirus\FileInfector\FileInfector\Keylogger\bin\Debug\Keylogger.exe.config
+D:\Dropbox\Antivirus\FileInfector\FileInfector\Keylogger\obj\Debug\Keylogger.exe
+D:\Dropbox\Antivirus\FileInfector\FileInfector\Keylogger\obj\Debug\Keylogger.pdb
+D:\Dropbox\Antivirus\FileInfector\FileInfector\Keylogger\bin\Debug\Keylogger.exe
+D:\Dropbox\Antivirus\FileInfector\FileInfector\Keylogger\bin\Debug\Keylogger.pdb
+D:\Dropbox\Antivirus\FileInfector\FileInfector\Keylogger\obj\Debug\Keylogger.csprojResolveAssemblyReference.cache
+D:\Cuarentena\Keylogger\Keylogger\bin\Debug\Keylogger.exe.config
+D:\Cuarentena\Keylogger\Keylogger\obj\Debug\Keylogger.exe
+D:\Cuarentena\Keylogger\Keylogger\obj\Debug\Keylogger.pdb
